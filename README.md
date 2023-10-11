@@ -1,2 +1,2 @@
-# Snobby-Critics
+# Snubbed
  Comparing film lists.
