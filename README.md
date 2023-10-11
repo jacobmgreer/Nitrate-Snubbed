@@ -1,2 +1,2 @@
 # Snubbed
- Comparing film lists.
+ Comparing film awards and critic selections.
