@@ -1,2 +1,7 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+*.R linguist-vendored=false
+*.webarchive linguist-generated
+*.csv linguist-generated
+*.html linguist-generated
+*.rq linguist-generated
+*.sparql linguist-detectable=true
+*.sparql linguist-vendored=false
