@@ -1,2 +1,2 @@
-# Snubbed
+# Nitrate-Snubbed
  Comparing film awards and critic selections.
